@@ -1,3 +1,5 @@
+Application Link:https://snapstory.streamlit.app/
+
 # 📖 AI Story Generator from Images
 
 A Streamlit web application that generates creative stories from uploaded images using Google Gemini AI and provides audio narration using Google Text-to-Speech.
